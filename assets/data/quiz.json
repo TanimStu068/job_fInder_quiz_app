@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What excites you most?",
+    "answers": [
+      { "text": "Smart machines 🤖", "type": "AI Engineer" },
+      { "text": "Building websites 💻", "type": "Full-Stack Developer" },
+      { "text": "Cool mobile apps 📱", "type": "Mobile App Developer" },
+      { "text": "Automation tools ⚙️", "type": "DevOps Engineer" },
+      { "text": "Stopping hackers 🔐", "type": "Cybersecurity Specialist" }
+    ]
+  },
+  {  
+    "question": "Which tool do you enjoy using most?",
+    "answers": [
+      { "text": "Jupyter Notebook 📒", "type": "AI Engineer" },
+      { "text": "VS Code 💻", "type": "Full-Stack Developer" },
+      { "text": "Flutter / Swift 📱", "type": "Mobile App Developer" },
+      { "text": "Docker 🐳", "type": "DevOps Engineer" },
+      { "text": "Wireshark 🕵️‍♂️", "type": "Cybersecurity Specialist" }
+    ]
+  },
+  {
+    "question": "What kind of project excites you?",
+    "answers": [
+      { "text": "Train a model 🤖", "type": "AI Engineer" },
+      { "text": "Build a full website 🌐", "type": "Full-Stack Developer" },
+      { "text": "Create an app 📲", "type": "Mobile App Developer" },
+      { "text": "Set up CI/CD ⚙️", "type": "DevOps Engineer" },
+      { "text": "Test for threats 🔍", "type": "Cybersecurity Specialist" }
+    ]
+  },
+  {
+    "question": "How do you solve problems?",
+    "answers": [
+      { "text": "Use data & models 📊", "type": "AI Engineer" },
+      { "text": "Code both ends 🧑‍💻", "type": "Full-Stack Developer" },
+      { "text": "Make an app for it 📱", "type": "Mobile App Developer" },
+      { "text": "Automate the fix 🔁", "type": "DevOps Engineer" },
+      { "text": "Secure the system 🔐", "type": "Cybersecurity Specialist" }
+    ]
+  },
+ {
+  "question": "Where do you see yourself thriving?",
+  "answers": [
+    { "text": "Research lab 🧪", "type": "AI Engineer" },
+    { "text": "Startup or freelance 🌍", "type": "Full-Stack Developer" },
+    { "text": "Creative product team 🎨", "type": "Mobile App Developer" },
+    { "text": "Engineering operations 🛠️", "type": "DevOps Engineer" },
+    { "text": "Security command center 🛡️", "type": "Cybersecurity Specialist" }
+  ]
+},
+  {
+    "question": "Your go-to learning platform?",
+    "answers": [
+      { "text": "Kaggle 📊", "type": "AI Engineer" },
+      { "text": "freeCodeCamp 💻", "type": "Full-Stack Developer" },
+      { "text": "Udemy 📱", "type": "Mobile App Developer" },
+      { "text": "Linux Academy 🐧", "type": "DevOps Engineer" },
+      { "text": "Hack The Box 🛡️", "type": "Cybersecurity Specialist" }
+    ]
+  },
+  {
+    "question": "What’s most satisfying to you?",
+    "answers": [
+      { "text": "High model accuracy 📈", "type": "AI Engineer" },
+      { "text": "Smooth website launch 🌐", "type": "Full-Stack Developer" },
+      { "text": "App on the Play Store 📲", "type": "Mobile App Developer" },
+      { "text": "Automated deployments 🚀", "type": "DevOps Engineer" },
+      { "text": "Blocked an attack 🛡️", "type": "Cybersecurity Specialist" }
+    ]
+  },
+  {
+    "question": "Which topic would you teach?",
+    "answers": [
+      { "text": "Machine Learning 🤖", "type": "AI Engineer" },
+      { "text": "Web Development 💻", "type": "Full-Stack Developer" },
+      { "text": "App Development 📱", "type": "Mobile App Developer" },
+      { "text": "DevOps & Cloud ⚙️", "type": "DevOps Engineer" },
+      { "text": "Cybersecurity 🔐", "type": "Cybersecurity Specialist" }
+    ]
+  },
+  {
+    "question": "Which tech buzzword excites you?",
+    "answers": [
+      { "text": "Neural networks 🧠", "type": "AI Engineer" },
+      { "text": "API integration 🔗", "type": "Full-Stack Developer" },
+      { "text": "Cross-platform 📱", "type": "Mobile App Developer" },
+      { "text": "Infrastructure as Code 📦", "type": "DevOps Engineer" },
+      { "text": "Zero trust 🔐", "type": "Cybersecurity Specialist" }
+    ]
+  },
+   {
+    "question": "Which word do you think describes you best?",
+    "answers": [
+      { "text": "Analytical 🤓", "type": "AI Engineer" },
+      { "text": "Versatile 🛠️", "type": "Full-Stack Developer" },
+      { "text": "Creative 🎨", "type": "Mobile App Developer" },
+      { "text": "Systematic 🧰", "type": "DevOps Engineer" },
+      { "text": "Alert 🚨", "type": "Cybersecurity Specialist" }
+    ]
+  }
+]
