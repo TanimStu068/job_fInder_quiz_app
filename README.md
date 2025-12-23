@@ -1,7 +1,5 @@
 # 🎯 Job Finder Quiz App
 
-![App Logo](assets/icon/job_finder_final_logo.png)  
-
 A sleek, user-friendly Flutter app that helps users discover their ideal tech career through an engaging quiz experience. Built with modern design, smooth animations, and interactive UI — this app combines fun with functionality to guide users toward their future in tech.
 
 ---
