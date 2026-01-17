@@ -64,13 +64,3 @@ Interactive design, fun animations, emojis, and a touch of tech magic — all cr
 ## 🧠 About the Developer
 
 Made with ❤️ by [Tanim Mahmud](https://github.com/TanimStu068) — a passionate Flutter developer exploring creative ways to combine career guidance and engaging tech experiences.
-
----
-
-## 📂 How to Run Locally
-
-```bash
-git clone https://github.com/TanimStu068/job_fInder_quiz_app.git
-cd job_fInder_quiz_app
-flutter pub get
-flutter run
