@@ -47,7 +47,7 @@ Interactive design, fun animations, emojis, and a touch of tech magic — all cr
 ## 📸 Screenshots
 
 ![image1](job_finderiamge1.jpeg)
-![image2](job_finderiamge2.jpeg)
+![image2](job_finderimage2.jpeg)
 
 
 ---
